@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "IR.DDDDD.DDDD"
+        }
+    }
+}
